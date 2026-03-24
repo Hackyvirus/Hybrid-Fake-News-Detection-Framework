@@ -226,7 +226,7 @@ All figures are saved at 300 DPI in grayscale, suitable for IEEE, Springer, and 
 If you use this code or the methodology in your work, please cite:
 
 ```
-[CITATION PLACEHOLDER — add after paper is published]
+[Preprint](https://bit.ly/4bKXpno)
 ```
 
 ---
